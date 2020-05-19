@@ -40,9 +40,12 @@ namespace WebDoctor.Controllers
         {
             try
             {
-                // TODO: Add insert logic here
+                if (ModelState.IsValid)
+                {
+                    return RedirectToAction("Index");
 
-                return RedirectToAction("Index");
+                }
+                return View();
             }
             catch
             {

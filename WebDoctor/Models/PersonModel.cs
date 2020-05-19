@@ -25,6 +25,12 @@ namespace WebDoctor.Models
         [Required(AllowEmptyStrings = false)]
         public string BirthDay { get; set; }
 
+        [Display(Name = "Data zwolnienia")]
+        [StringLength(10, MinimumLength = 10, ErrorMessage = "Musisz podać poprawną datę zwolnienia")]
+        [DataType(DataType.Date)]
+        [Required(AllowEmptyStrings = false)]
+        public string DayOfLeave { get; set; }
+
         [Display(Name = "PESEL")]
         [StringLength(11, MinimumLength = 11)]
         [Range(00000000001, 99999999999, ErrorMessage = "Musisz podać poprawny PESEL")]
