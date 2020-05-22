@@ -1,0 +1,10 @@
+F:\Programming\GitHub\SickLeave\DbDoctor\bin\Debug\DbDoctor.dacpac
+F:\Programming\GitHub\SickLeave\DbDoctor\bin\Debug\DbDoctor.dll
+F:\Programming\GitHub\SickLeave\DbDoctor\bin\Debug\DbDoctor.pdb
+F:\Programming\GitHub\SickLeave\DbDoctor\obj\Debug\DbDoctor.sqlprojAssemblyReference.cache
+F:\Programming\GitHub\SickLeave\DbDoctor\obj\Debug\DbDoctor.dll
+F:\Programming\GitHub\SickLeave\DbDoctor\obj\Debug\DbDoctor.pdb
+F:\Programming\GitHub\SickLeave\DbDoctor\obj\Debug\Model.xml
+F:\Programming\GitHub\SickLeave\DbDoctor\obj\Debug\refactor.xml
+F:\Programming\GitHub\SickLeave\DbDoctor\obj\Debug\postdeploy.sql
+F:\Programming\GitHub\SickLeave\DbDoctor\obj\Debug\predeploy.sql

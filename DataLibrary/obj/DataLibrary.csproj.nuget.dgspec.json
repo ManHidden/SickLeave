@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\patry\\source\\repos\\ASPWebDoctor\\DataLibrary\\DataLibrary.csproj": {}
+    "F:\\Programming\\GitHub\\SickLeave\\DataLibrary\\DataLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\patry\\source\\repos\\ASPWebDoctor\\DataLibrary\\DataLibrary.csproj": {
+    "F:\\Programming\\GitHub\\SickLeave\\DataLibrary\\DataLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\patry\\source\\repos\\ASPWebDoctor\\DataLibrary\\DataLibrary.csproj",
+        "projectUniqueName": "F:\\Programming\\GitHub\\SickLeave\\DataLibrary\\DataLibrary.csproj",
         "projectName": "DataLibrary",
-        "projectPath": "C:\\Users\\patry\\source\\repos\\ASPWebDoctor\\DataLibrary\\DataLibrary.csproj",
+        "projectPath": "F:\\Programming\\GitHub\\SickLeave\\DataLibrary\\DataLibrary.csproj",
         "packagesPath": "C:\\Users\\patry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\patry\\source\\repos\\ASPWebDoctor\\DataLibrary\\obj\\",
+        "outputPath": "F:\\Programming\\GitHub\\SickLeave\\DataLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
