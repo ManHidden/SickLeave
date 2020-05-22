@@ -26,8 +26,10 @@ namespace WebDoctor.Models
         public string BirthDay { get; set; }
 
         [Display(Name = "PESEL")]
-        [StringLength(11, MinimumLength = 11)]
-        [Range(00000000001, 99999999999, ErrorMessage = "Musisz podać poprawny PESEL")]
-        public long PESEL { get; set; }
+        [MinLength(11, ErrorMessage = "Podany PESEL jest zbyt krótki")]
+        [MaxLength(11, ErrorMessage = "Podany PESEL jest zbyd długi")]
+        [Required, Range(00000000001, 99999999999, ErrorMessage = "Musisz podać poprawny PESEL")]
+        public string PESEL { get; set; }
     }
+
 }

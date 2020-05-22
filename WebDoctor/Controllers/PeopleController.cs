@@ -15,8 +15,8 @@ namespace WebDoctor.Controllers
         {
             List<PersonModel> people = new List<PersonModel>();
 
-            people.Add(new PersonModel { FirstName = "Patryk", LastName = "Gołębiowski", PESEL = 97082606295, BirthDay = new DateTime(1997, 08, 26).ToShortDateString() });
-            people.Add(new PersonModel { FirstName = "Ania", LastName = "Ciepał", PESEL = 96092309789, BirthDay = new DateTime(1996, 09, 23).ToShortDateString() });
+            people.Add(new PersonModel { FirstName = "Patryk", LastName = "Gołębiowski", PESEL = "97082606295", BirthDay = new DateTime(1997, 08, 26).ToShortDateString() });
+            people.Add(new PersonModel { FirstName = "Ania", LastName = "Ciepał", PESEL = "96092309789", BirthDay = new DateTime(1996, 09, 23).ToShortDateString() });
 
             return View(people);
         }

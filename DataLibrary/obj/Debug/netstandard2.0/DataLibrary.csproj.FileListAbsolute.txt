@@ -1,0 +1,5 @@
+F:\Programming\GitHub\SickLeave\DataLibrary\bin\Debug\netstandard2.0\DataLibrary.deps.json
+F:\Programming\GitHub\SickLeave\DataLibrary\bin\Debug\netstandard2.0\DataLibrary.dll
+F:\Programming\GitHub\SickLeave\DataLibrary\obj\Debug\netstandard2.0\DataLibrary.csprojAssemblyReference.cache
+F:\Programming\GitHub\SickLeave\DataLibrary\obj\Debug\netstandard2.0\DataLibrary.AssemblyInfoInputs.cache
+F:\Programming\GitHub\SickLeave\DataLibrary\obj\Debug\netstandard2.0\DataLibrary.AssemblyInfo.cs
