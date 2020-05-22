@@ -9,6 +9,6 @@ namespace DataLibrary.Models
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string BirthDay { get; set; }
-        public long PESEL { get; set; }
+        public string PESEL { get; set; }
     }
 }
